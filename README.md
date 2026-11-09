@@ -9,6 +9,7 @@ My personal homepage, edited from my own computer with Git.
 - Branches and pull requests
 - Issues with closing keywords
 - Local Git: clone, edit, stage, commit, push
+- Creating branches from the terminal
 
 ## Live site
 
